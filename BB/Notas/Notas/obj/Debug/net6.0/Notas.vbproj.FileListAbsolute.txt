@@ -1,0 +1,15 @@
+D:\PracticasVB\Notas\Notas\obj\Debug\net6.0\Notas.vbproj.AssemblyReference.cache
+D:\PracticasVB\Notas\Notas\obj\Debug\net6.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticasVB\Notas\Notas\obj\Debug\net6.0\Notas.AssemblyInfoInputs.cache
+D:\PracticasVB\Notas\Notas\obj\Debug\net6.0\Notas.AssemblyInfo.vb
+D:\PracticasVB\Notas\Notas\obj\Debug\net6.0\Notas.vbproj.CoreCompileInputs.cache
+D:\PracticasVB\Notas\Notas\bin\Debug\net6.0\Notas.exe
+D:\PracticasVB\Notas\Notas\bin\Debug\net6.0\Notas.deps.json
+D:\PracticasVB\Notas\Notas\bin\Debug\net6.0\Notas.runtimeconfig.json
+D:\PracticasVB\Notas\Notas\bin\Debug\net6.0\Notas.dll
+D:\PracticasVB\Notas\Notas\bin\Debug\net6.0\Notas.pdb
+D:\PracticasVB\Notas\Notas\obj\Debug\net6.0\Notas.dll
+D:\PracticasVB\Notas\Notas\obj\Debug\net6.0\refint\Notas.dll
+D:\PracticasVB\Notas\Notas\obj\Debug\net6.0\Notas.pdb
+D:\PracticasVB\Notas\Notas\obj\Debug\net6.0\Notas.genruntimeconfig.cache
+D:\PracticasVB\Notas\Notas\obj\Debug\net6.0\ref\Notas.dll
